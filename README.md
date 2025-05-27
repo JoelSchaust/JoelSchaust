@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BioMeds @CCTB Würzburg](https://www.biozentrum.uni-wuerzburg.de/cctb/)
 
-- 🌱 I’m currently studying **Biomedical data science, Image analysis tools, image segmentation, pipeline developement, fluorescence microscopy, RNA-sequencing data**
+- 🌱 I’m currently studying **biomedical data science, image analysis tools, image segmentation, pipeline developement, fluorescence microscopy, RNA-sequencing data**
 
 <p align="left">
 </p>
