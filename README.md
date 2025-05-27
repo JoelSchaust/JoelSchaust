@@ -27,18 +27,6 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
-  <!-- Napari -->
-  <a href="https://napari.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/napari/napari/main/docs/_static/logo.png" alt="Napari" width="40" height="40"/>
-  </a>
-  <!-- Cellpose -->
-  <a href="https://github.com/MouseLand/cellpose" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/34447668/228307146-bbfe7cb7-5c86-4142-8185-47a3061b7380.png" alt="Cellpose" width="40" height="40"/>
-  </a>
-  <!-- ImageJ -->
-  <a href="https://imagej.net/" target="_blank" rel="noreferrer">
-    <img src="https://imagej.net/media/fiji-logo.png" alt="ImageJ" width="40" height="40"/>
-  </a>
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
