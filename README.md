@@ -8,8 +8,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Python -->
@@ -29,15 +28,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <!-- Napari (kein offizielles Icon, daher als Text oder eigenes Bild) -->
-  <a href="https://napari.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/napari/napari/main/docs/_static/logo.png" alt="Napari" width="40" height="40"/>
-  </a>
-  <!-- Cellpose (kein offizielles Icon, daher als GitHub-Link oder eigenes Bild) -->
-  <a href="https://github.com/MouseLand/cellpose" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/34447668/228307146-bbfe7cb7-5c86-4142-8185-47a3061b7380.png" alt="Cellpose" width="40" height="40"/>
-  </a>
-  <!-- ImageJ (kein offizielles Icon, daher Logo von Fiji) -->
-  <a href="https://imagej.net/" target="_blank" rel="noreferrer">
-    <img src="https://imagej.net/media/fiji-logo.png" alt="ImageJ" width="40" height="40"/>
-  </a>
+
 </p>
