@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joél</h1>
-<h3 align="center">Bioinformatics student at Julius-Maximilians-Universität Würzburg (JMU)</h3>
+<h3 align="center">M.Sc. Biosciences / Bioinformatics with a focus on Biomedical Data Science and Image Analysis at Julius-Maximilians-Universität Würzburg (JMU)</h3>
 
 - 🔭 I’m currently working on [BioMeds @CCTB Würzburg](https://www.biozentrum.uni-wuerzburg.de/cctb/)
 
