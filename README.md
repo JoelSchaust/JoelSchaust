@@ -1,9 +1,32 @@
 <h1 align="center">Hi 👋, I'm Joél</h1>
-<h3 align="center">M.Sc. Biosciences / Bioinformatics with a focus on Biomedical Data Science and Image Analysis at Julius-Maximilians-Universität Würzburg (JMU)</h3>
 
-- 🔭 I’m currently working on [BioMeds @CCTB Würzburg](https://www.biozentrum.uni-wuerzburg.de/cctb/)
+<h3 align="center">
+PhD Student at Universitätsklinikum Mannheim<br>
+Department of Ophthalmology
+</h3>
 
-- 🌱 I’m currently studying **biomedical data science, image analysis tools, image segmentation, pipeline developement, fluorescence microscopy, RNA-sequencing data**
+<p align="center">
+Currently working on imaging biomarkers in ophthalmology data.
+</p>
+
+<h4>Previously</h4>
+
+<ul>
+  <li>
+    Research at <a href="https://www.biozentrum.uni-wuerzburg.de/cctb/">BioMeds @ CCTB Würzburg</a>
+  </li>
+</ul>
+
+<h4>Background & Interests</h4>
+
+<ul>
+  <li>Biomedical Data Science</li>
+  <li>Medical Image Analysis & Segmentation</li>
+  <li>Image analysis pipelines</li>
+  <li>Fluorescence microscopy</li>
+  <li>RNA sequencing data</li>
+</ul>
+
 
 <p align="left">
 </p>
