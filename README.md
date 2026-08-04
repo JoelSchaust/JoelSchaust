@@ -1,78 +1,81 @@
 <h1 align="center">Hi 👋, I'm Joél</h1>
-
+ 
 <h3 align="center">
-PhD Student at Universitätsklinikum Mannheim<br>
-Department of Ophthalmology
+PhD Student · Department of Ophthalmology<br>
+Universitätsklinikum Mannheim, Heidelberg University
 </h3>
-
 <p align="center">
-Currently working on imaging biomarkers in ophthalmology data.
+Building imaging biomarkers from retinal OCT — from annotation protocol to trained model.
 </p>
 
-<h4>Previously</h4>
+ 
+### 🔬 Current work
+ 
+I develop quantitative image-analysis pipelines for **retinal OCT and other ophthalmic imaging** in a multicenter
+uveitis cohort. 
 
-<ul>
-  <li>
-    Research at <a href="https://www.biozentrum.uni-wuerzburg.de/cctb/">BioMeds @ CCTB Würzburg</a>
-  </li>
-</ul>
+- **Deep-learning segmentation**
+- **Annotation methodology**
+- **Observer variability** 
+- **Imaging biomarkers** 
+- **Reproducible analysis pipelines**
+- 
+### 🧭 Research interests
+ 
+| Domain | Focus |
+|---|---|
+| Medical image analysis | Segmentation, registration, quality control at scale |
+| Biomedical data science | Study design, evaluation metrics, statistical reporting |
+| Ophthalmic imaging | OCT, retinal layer & lesion quantification |
+| Microscopy | Fluorescence image analysis, single-cell segmentation |
+| Sequencing | RNA-seq, association analysis (GWAS/TWAS) |
+ 
+### 🧪 Previously
+ 
+- **BioMeds @ [CCTB Würzburg](https://www.biozentrum.uni-wuerzburg.de/cctb/)** — automated
+  segmentation of high-resolution fluorescence microscopy for single-cell Influenza A vRNA
+  replication analysis (Cellpose), in cooperation with the HIRI
+- Transcriptome-wide association analysis on *Arabidopsis* 
+---
+ 
+### 🛠️ Languages & Tools
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+ 
+**Deep learning & image analysis**
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![nnU-Net](https://img.shields.io/badge/nnU--Net-5A2D82?style=flat)
+![Cellpose](https://img.shields.io/badge/Cellpose-1F6FEB?style=flat)
+![napari](https://img.shields.io/badge/napari-00D1B2?style=flat)
+![scikit-image](https://img.shields.io/badge/scikit--image-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+ 
+**Data & analysis**
+ 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?style=flat&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-75AADB?style=flat&logo=rstudio&logoColor=white)
+ 
+**Infrastructure**
+ 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-004D7F?style=flat)
+![Singularity](https://img.shields.io/badge/Apptainer%20%2F%20Singularity-1D355C?style=flat)
+![HPC](https://img.shields.io/badge/bwForCluster-767676?style=flat)
+ 
+---
+ 
+### 📫 Get in touch
 
-<h4>Background & Interests</h4>
-
-<ul>
-  <li>Biomedical Data Science</li>
-  <li>Medical Image Analysis & Segmentation</li>
-  <li>Image analysis pipelines</li>
-  <li>Fluorescence microscopy</li>
-  <li>RNA sequencing data</li>
-</ul>
-
-
-<p align="left">
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <!-- Image Analysis Symbol (Camera Icon) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/image.png" alt="Image Analysis" width="40" height="40"/>
-  </a>
-</p>
-
+<sub>Open to exchange on segmentation benchmarking, annotation quality and clinical imaging pipelines.</sub>
+ 
