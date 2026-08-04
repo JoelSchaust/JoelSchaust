@@ -19,7 +19,7 @@ uveitis cohort.
 - **Observer variability** 
 - **Imaging biomarkers** 
 - **Reproducible analysis pipelines**
-- 
+
 ### 🧭 Research interests
  
 | Domain | Focus |
