@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joél</h1>
+<h1 align="center">Hi, I'm Joél</h1>
  
 <h3 align="center">
 PhD Student · Department of Ophthalmology<br>
@@ -20,7 +20,7 @@ uveitis cohort.
 - **Imaging biomarkers** 
 - **Reproducible analysis pipelines**
 
-### 🧭 Research interests
+###  Research interests
  
 | Domain | Focus |
 |---|---|
@@ -30,7 +30,7 @@ uveitis cohort.
 | Microscopy | Fluorescence image analysis, single-cell segmentation |
 | Sequencing | RNA-seq, association analysis (GWAS/TWAS) |
  
-### 🧪 Previously
+###  Previously
  
 - **BioMeds @ [CCTB Würzburg](https://www.biozentrum.uni-wuerzburg.de/cctb/)** — automated
   segmentation of high-resolution fluorescence microscopy for single-cell Influenza A vRNA
@@ -38,7 +38,7 @@ uveitis cohort.
 - Transcriptome-wide association analysis on *Arabidopsis* 
 ---
  
-### 🛠️ Languages & Tools
+###  Languages & Tools
  
 **Languages**
  
@@ -75,7 +75,7 @@ uveitis cohort.
  
 ---
  
-### 📫 Get in touch
+###  Get in touch
 
 <sub>Open to exchange on segmentation benchmarking, annotation quality and clinical imaging pipelines.</sub>
  
