@@ -11,8 +11,8 @@ Building imaging biomarkers from retinal OCT — from annotation protocol to tra
  
 ###  Current work
  
-I develop quantitative image-analysis pipelines for **retinal OCT and other ophthalmic imaging** in a multicenter
-uveitis cohort. 
+I develop quantitative image-analysis pipelines for **retinal OCT and other ophthalmic imaging** in  multicentric cohorts.
+
 
 - **Deep-learning segmentation**
 - **Annotation methodology**
